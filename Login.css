@@ -1,0 +1,75 @@
+body{
+	background-image: url(./Background.png);
+	
+	background-repeat: no-repeat;
+}
+#tit{
+	margin: auto;
+	text-align: center;
+	padding: 10px;
+	color:white;
+
+
+}
+#frm{
+	margin: auto;
+}
+#logg {
+	text-align: center;
+  	margin: auto;
+  	width: 35%;
+  	border: 3px solid white;
+  	border-radius: 10px;
+  	padding: 10px;
+  	box-shadow: 10px 10px 5px grey;
+}
+input{
+	padding: 10px;
+	border: 1px solid white;
+	border-radius: 10px;
+	box-shadow: 10px 10px 9px grey;
+	margin-top: 18px;
+	margin-bottom: 8px;
+}
+input:hover{
+	background-color: #FFFF9D;
+}
+footer{
+	height: 50px;
+	width: 100%;
+	background-color: black;
+	color: white;
+	bottom: 0px;
+	position: fixed;
+	margin: 0px;
+	left: 0px;
+
+}
+#cl{
+	size:  20px;
+	width: 20px;
+	position: relative;
+	left: 120px;
+}
+header{
+	text-align: center;
+	background-color: black;
+	color: white;
+	height: 60px;
+	position: fixed;
+	margin: 0px;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+}
+div {
+	position: relative;
+	top:80px;
+}
+#back{
+	position: relative;
+	top:170px;
+	height:50px; 
+	width:50px;
+	left: 30px;
+}

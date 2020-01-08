@@ -1,0 +1,140 @@
+body{
+	margin: 0px;
+
+}
+
+#kb{
+	margin: auto;
+	width: 100%;
+	background-color: rgb(55, 27, 2); 
+	height: 637px; 
+	background-image: url("./Background.png");
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position: 50%;
+
+}
+#sph{
+	height: 420px; 
+	width: 505;
+	position: relative;
+	left: 20px;
+	border-radius: 30px;
+	border-style: ridge;
+	border-color: rgb(180, 180, 180);
+}
+
+
+#im{
+
+	height: 30px;
+	width: 30px;
+}
+
+li{
+  color: rgb(0, 0, 0);
+
+	border-style: solid;
+	border-color: rgb(0, 0, 0);
+	position: relative;
+	left: 300px;
+	bottom: 430px; 
+	width: 500px;
+	height: 30px;
+
+}
+.stats{
+	position: relative;
+	top: 10px;
+	height: 10px; 
+	width: 10px;
+}
+
+#champ {
+	position: relative;
+	left: 900px;
+	bottom: 550px;
+  color: rgb(180, 180, 180);
+}
+
+ul{
+	height: 10px;
+
+}
+td{
+	border: ridge;
+	border-color: rgb(0, 0, 0);
+	height: 30px;
+	width: 30px;
+	text-align: center;
+
+}
+
+li{
+	color: rgb(200, 200, 200);
+}
+#table{
+	position: relative;
+	left: 340px;
+	bottom: 200px;
+
+}
+#active{
+	background-color: rgba(111, 209, 255, 0.6)
+}
+
+iframe{
+	height: 210px; 
+	width:300px;
+	position: relative;
+	left: 900px;
+	bottom: 560px;
+}
+
+a{
+	position: relative;
+	left: 340px;
+	bottom: 240px;
+
+}
+
+#button{
+	position: relative;
+	left:590px;
+	bottom:460px;
+}
+
+footer{
+	height: 50px;
+	width: 100%;
+	background-color: black;
+	color: white;
+
+}
+
+#cl{
+	size:  20px;
+	width: 20px;
+	position: relative;
+
+	left: 120px;
+}
+
+header{
+	text-align: center;
+	background-color: black;
+	color: white;
+	height: 60px;
+}
+h1{
+	position: relative;
+	bottom: 20px;
+}
+
+#log {
+	position: relative;
+	left: 250px;
+	top: 215px;
+	height: 40px; 
+	width: 80px;
+}
